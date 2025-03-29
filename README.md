@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Cloud%20Computing-lightblue?style=flat-square" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/-POO-blueviolet?style=flat-square" alt="Programação Orientada a Objetos" />
   <img src="https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity&logoColor=white" alt="Unity3D" />
@@ -31,13 +32,13 @@
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaagne&layout=compact&langs_count=7&theme=calm"/>
       </a>
     </td>
-    <td>
+   <!--- <td>
       <a href="https://github.com/alanaagne">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaagne&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
       </a>
     </td>
-  </tr>
-</table>
+  </tr>--->
+</table> 
 
 
 
