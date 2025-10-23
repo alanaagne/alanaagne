@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-lightblue?style=flat-square" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/-POO-blueviolet?style=flat-square" alt="Programação Orientada a Objetos" />
   <img src="https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity&logoColor=white" alt="Unity3D" />
 </p>
