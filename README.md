@@ -42,10 +42,10 @@ Desenvolvedora Fullstack e Pesquisadora focada no desenvolvimento de sistemas ro
 
 <p align="left">
   <a href="https://github.com/alanaagne">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaagne&layout=compact&langs_count=7&theme=calm" alt="Linguagens mais usadas" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanaagne&theme=calm" height="180em" alt="Linguagens mais usadas" />
   </a>
   <a href="https://github.com/alanaagne">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaagne&show_icons=true&theme=calm&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanaagne&theme=calm" height="180em" alt="Estatísticas do GitHub" />
   </a>
 </p>
 
