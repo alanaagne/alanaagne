@@ -40,20 +40,14 @@ Desenvolvedora Fullstack e Pesquisadora focada no desenvolvimento de sistemas ro
 
 # 👩‍💻 Codificando soluções
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/alanaagne">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaagne&layout=compact&langs_count=7&theme=calm"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alanaagne">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaagne&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-  </tr>
-</table> 
+<p align="left">
+  <a href="https://github.com/alanaagne">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaagne&layout=compact&langs_count=7&theme=calm" alt="Linguagens mais usadas" />
+  </a>
+  <a href="https://github.com/alanaagne">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaagne&show_icons=true&theme=calm&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+</p>
 
 ---
 
