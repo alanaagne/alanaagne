@@ -4,7 +4,6 @@ Desenvolvedora Fullstack e Pesquisadora focada no desenvolvimento de sistemas ro
 
 🎓 **Graduanda em Sistemas de Informação** pelo Instituto Federal da Bahia.\
 🔬 **Membro do GIPAR** (Grupo de Inovação e Pesquisa em Automação e Robótica) e ex-bolsista de Iniciação Científica **FAPESB**.\
-💻 **Ex-Estagiária de IA na Compass UOL**, atuando na criação de sistemas automatizados, microsserviços e integração de Large Language Models (LLMs).\
 💼 **Pesquisadora Estudante na Embrapii** (Empresa Brasileira de pesquisa e inovação industrial), Liderando a equipe de software e no desenvolvimento de um produto inovador como desenvolvedora fullstack.
 
 ---
