@@ -53,7 +53,7 @@ Desenvolvedora Fullstack e Pesquisadora focada no desenvolvimento de sistemas ro
 # 📧 Contato:
 
 <div>
-<a href="https://www.linkedin.com/in/alana-brand%C3%A3o-8a8697234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alana-brandao-8a8697234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:alanaagnedev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
